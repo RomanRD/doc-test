@@ -1,4 +1,4 @@
-Content Management
+User Documentation
 ==================
 
 .. toctree::
