@@ -8,8 +8,9 @@ In this article:
     - `Text Editor Features`_
 
 .. |pencil| image:: _static/text/ic_text_editor.png
+    :height: 12pt
 
-.. |fullScreen| image:: _static/text/save.png
+.. |fullScreen| image:: _static/text/full-screen.png
 
 .. |link| image:: _static/text/link.png
 
