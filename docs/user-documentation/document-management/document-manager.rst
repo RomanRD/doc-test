@@ -37,20 +37,20 @@ In order to create a new document, you have to:
 
 1. Click **+** button.
 2. In the open window, select the document type and click **Ok**.
-3. Choose a profile (more details :doc:`here <ADD LINK>`) or a document id/alias that will be inherited for the current document and click **Create**.
+3. Choose a profile (more details :doc:`here </user-documentation/admin-settings/profiles>`) or a document id/alias that will be inherited for the current document and click **Create**.
 4. Click **Ok** after filling in the required fields in the page info.
 
 *************
 Edit Document
 *************
 
-To edit a document, you have to move the mouse over the document and click the |pencil| that appears.
+To edit a document, you have to move the mouse over the document and click |pencil| that appears.
 
 *************
 Copy Document
 *************
 
-To copy a document, you have to move the mouse over the document and click the |copy| that appears.
+To copy a document, you have to move the mouse over the document and click |copy| that appears.
 
 ***************
 Remove Document

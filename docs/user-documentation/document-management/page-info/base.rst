@@ -78,7 +78,7 @@ You can disable the search for this document by enabling the **Disable search** 
 Categories Tab
 ------------
 
-Since ImCMS provides categories (more :doc:`here <ADD LINK>`), a document can have categories.
+Since ImCMS provides categories (more :doc:`here </user-documentation/admin-settings/categories>`), a document can have categories.
 This can be used for flagging, classification or for certain features that a developer may have added to the code.
 
 .. image:: _static/page-info-categories.png

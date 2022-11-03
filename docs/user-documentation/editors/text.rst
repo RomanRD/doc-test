@@ -5,7 +5,7 @@ In this article:
     - `Open Text Editor`_
     - `Text Editor Show Mode`_
     - `Text Editor Types`_
-    - `Text Editor Features`_
+    - `Text Editor Tools`_
 
 .. |pencil| image:: _static/text/ic_text_editor.png
     :height: 12pt
@@ -41,9 +41,7 @@ Open Text Editor
 In order to open a text editor, you have to click |pencil| or click on the text inside.
 
 Besides, you can open the editor in a separate window by pressing |fullScreen| and clicking on the link to the right of all buttons.
-This link can also be used the following times to open the separate editor.
-
-.. note:: The developer can specify text on the page that will be outside the editors, such text cannot be changed.
+This link can also be used the next times to open the separate editor.
 
 ---------------------
 Text Editor Show Mode
@@ -77,9 +75,9 @@ There are three modes of text editor: *plain text*, *html* and *what-you-see-is-
 
 .. image:: _static/text/tinymce-editor.png
 
---------------------
-Text Editor Features
---------------------
+-----------------
+Text Editor Tools
+-----------------
 
 +----------------+------------------------------------------------------+
 + |fullScreen|   + open the editor in full screen.                      +

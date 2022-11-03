@@ -82,6 +82,6 @@ In order to make a **document visible** to a specific user **when searching**, y
 
 In order to make a **document visible** to a specific user **in a menu**, you have to:
 
-1. The document must be **published**.
+1. Make sure the document is **published**.
 2. Enable **VIEW for all users** or give **VIEW** for one of the user's roles.
 3. Enable **Visibility in the menu for authorized users**.
