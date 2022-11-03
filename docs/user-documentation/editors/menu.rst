@@ -11,9 +11,11 @@ In this article:
     - `Document Management`_
 
 .. |edit| image:: _static/menu/icon_menu_edit.png
+    :height: 12pt
+
 .. |nest| image:: _static/menu/icon_folder_controll_reverse_move.png
 .. |move| image:: _static/menu/ic_move_cursor.png
-    :height: 12pt
+    :height: 15pt
 
 .. |pencil| image:: _static/menu/ic_text_editor.png
     :height: 12pt

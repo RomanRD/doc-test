@@ -1,4 +1,4 @@
-Image editor and library
+Image Editor and Library
 ========================
 
 .. toctree::

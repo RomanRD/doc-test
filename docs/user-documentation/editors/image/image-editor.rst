@@ -11,6 +11,8 @@ In this article:
     - `Image Attributes`_
 
 .. |camera| image:: _static/editor/icon_image_edit.png
+    :height: 12pt
+
 .. |proportions| image:: _static/editor/proportions.png
 .. |zoomPlus| image:: _static/editor/zoom-plus.png
 .. |zoomMinus| image:: _static/editor/zoom-minus.png
@@ -178,8 +180,8 @@ What can you do:
     + .. image:: _static/editor/advanced-text-alignment-example.png +
     +--------------------------------------------------------+
 
-* Specify the coordinates at which the image will be cropped.
-* Select the format in which the image will be saved.
+* **Specify the coordinates at which the image will be cropped.**
+* **Select the format in which the image will be saved.**
 * Cancel the image compression process.
     Image compression reduces the size of the image, so image will take up less disk space and load faster on the page.
     Compression can sometimes degrade quality.
