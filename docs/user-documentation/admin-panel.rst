@@ -47,7 +47,7 @@ Panel Features
 +--------------------+----------------------------------------------------------------------------------------------------------------+
 + |pageInfoIcon|     + Page Info - open the :doc:`Page Info</user-documentation/document-management/page-info/base>`.                 +
 +--------------------+----------------------------------------------------------------------------------------------------------------+
-+ |siteSpecific|     + Site Specific - TODO ADD TEXT.                                                                                 +
++ |siteSpecific|     + Site Specific (optional) - open additional functionality written by the developer.                             +
 +--------------------+----------------------------------------------------------------------------------------------------------------+
 + |documentsIcon|    + Document Manager - open the :doc:`Document Manager</user-documentation/document-management/document-manager>`. +
 +--------------------+----------------------------------------------------------------------------------------------------------------+

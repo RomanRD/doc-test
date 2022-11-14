@@ -48,7 +48,7 @@ Besides a lot of defaults, find this:
 
 .. code-block:: properties
 
-    db-host = localhost                                 remove
+    db-host = localhost
     db-name = imcms
     db-user = root
     db-pass =

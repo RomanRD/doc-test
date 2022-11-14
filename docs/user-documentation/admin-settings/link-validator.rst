@@ -1,4 +1,4 @@
-Link Validator Management
-=========================
+Link Validator
+==============
 
 Coming soon...

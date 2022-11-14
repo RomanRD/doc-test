@@ -17,8 +17,8 @@ In order to classify elements in the system ImCMS provide categories.
 The main concept is that the base type of categories is **Category Type**.
 It can include several categories and applied for all elements in the system that support classifying (such as document).
 
-.. |categoryType| image:: _static/admin_category_type.png
-.. |category| image:: _static/admin_category.png
+.. |categoryType| image:: _static/admin-category-type.png
+.. |category| image:: _static/admin-category.png
 
 +-----------------+
 | |categoryType|  +

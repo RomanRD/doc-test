@@ -8,6 +8,8 @@ In this article:
 
 .. |create| image:: _static/library/icon_folder_controll_create.png
 .. |edit| image:: _static/library/ic_text_editor.png
+    :height: 12pt
+
 .. |check| image:: _static/library/icon_folder_controll_reverse_check.png
 
 ------------
@@ -47,7 +49,7 @@ In order to **move an image** to another folder, **hold down the mouse button** 
 In order to **open a folder**, **double-click** on it.
 
 In order to **change the sorting of images** in a folder, you have to **select** the required sorting **in the drop-down list at the top and right**.
-    Default sorting from newest to oldest.
+Default sorting - from newest to oldest.
 
 In order to **create a folder**, you have to **click** |create| in the line with the name of the parent folder, **enter a name**, **click** |check|.
 
