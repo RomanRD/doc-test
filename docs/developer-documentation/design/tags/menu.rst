@@ -50,6 +50,7 @@ Opens/closes a loop of elements, specified inside the *menu* or *menuLoop* tags.
 Inside *menuLoop* tag you can use following variable:
 
 * **menuItem** - MenuItemDTO - represents the current menu item.
+* **isCurrent** - Boolean - represents a boolean whether the current item is the current document.
 * **hasChildren** - Boolean - represents a boolean whether the current item has nested elements.
 * **menuItems** - List<MenuItemDTO> - represents nested elements of the current menu item.
 

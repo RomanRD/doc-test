@@ -14,49 +14,49 @@ Available list of tag attributes:
 """""""""""""""""""""""""""""""""
 
 +---------------------+---------+------------------------------------------------------------------------------+
-+ Attribute           + Type    +  Description                                                                 +
+| Attribute           | Type    |  Description                                                                 |
 +=====================+=========+==============================================================================+
-+ no                  + Integer + id of the current text (deprecated version).                                 +
+| no                  | Integer | id of the current text (deprecated version).                                 |
 +---------------------+---------+------------------------------------------------------------------------------+
-+ index               + Integer + id of the current text (recommended version).                                +
+| index               | Integer | id of the current text (recommended version).                                |
 +---------------------+---------+------------------------------------------------------------------------------+
-+ document            + Integer + id of the document from which to take the text.                              +
-+                     +         + This text cannot be changed on this page.                                    +
+| document            | Integer | id of the document from which to take the text.                              |
+|                     |         | This text cannot be changed on this page.                                    |
 +---------------------+---------+------------------------------------------------------------------------------+
-+ placeholder         + String  + the text to show if there is no content.                                     +
+| placeholder         | String  | the text to show if there is no content.                                     |
 +---------------------+---------+------------------------------------------------------------------------------+
-+ label               + String  + the text editor title (visible to the admin).                                +
+| label               | String  | the text editor title (visible to the admin).                                |
 +---------------------+---------+------------------------------------------------------------------------------+
-+ showlabel           + Boolean + true (default) - show the label, false - don't show label.                   +
+| showlabel           | Boolean | true (default) - show the label, false - don't show label.                   |
 +---------------------+---------+------------------------------------------------------------------------------+
-+                     +         + Possible values:                                                             +
-+                     +         +                                                                              +
-+                     +         + * absence of this attribute - the Edit mode will show the text editor,       +
-+ mode                + String  +   the Preview and the published page will show the content.                  +
-+                     +         + * ``read`` - the Edit mode will now show the text editor,                    +
-+                     +         +   but the Preview and the published page will show the content.              +
-+                     +         + * ``write`` - the Edit mode will show the text editor,                       +
-+                     +         +   but the Preview and the published page will not show the content.          +
+|                     |         | Possible values:                                                             |
+|                     |         |                                                                              |
+|                     |         | * absence of this attribute - the Edit mode will show the text editor,       |
+| mode                | String  |   the Preview and the published page will show the content.                  |
+|                     |         | * ``read`` - the Edit mode will now show the text editor,                    |
+|                     |         |   but the Preview and the published page will show the content.              |
+|                     |         | * ``write`` - the Edit mode will show the text editor,                       |
+|                     |         |   but the Preview and the published page will not show the content.          |
 +---------------------+---------+------------------------------------------------------------------------------+
-+                     +         + Possible values:                                                             +
-+                     +         +                                                                              +
-+ formats             + String  + * absence of this attribute -                                                +
-+                     +         +   editor takes *what-you-see-is-what-you-get* type.                          +
-+                     +         + * ``text`` - editor takes *plain text* type.                                 +
-+                     +         + * ``html`` - editor takes *html* type.                                       +
+|                     |         | Possible values:                                                             |
+|                     |         |                                                                              |
+| formats             | String  | * absence of this attribute -                                                |
+|                     |         |   editor takes *what-you-see-is-what-you-get* type.                          |
+|                     |         | * ``text`` - editor takes *plain text* type.                                 |
+|                     |         | * ``html`` - editor takes *html* type.                                       |
 +---------------------+---------+------------------------------------------------------------------------------+
-+ pre                 + String  + text or html before the content (if the content is not empty).               +
+| pre                 | String  | text or html before the content (if the content is not empty).               |
 +---------------------+---------+------------------------------------------------------------------------------+
-+ post                + String  + text or html after the content (if the content is not empty).                +
+| post                | String  | text or html after the content (if the content is not empty).                |
 +---------------------+---------+------------------------------------------------------------------------------+
-+ showEditToSuperAdmin+ String  + text editor visibility in Edit mode only for superadmin.                     +
+| showEditToSuperAdmin| String  | text editor visibility in Edit mode only for superadmin.                     |
 +---------------------+---------+------------------------------------------------------------------------------+
-+                     +         + Possible values:                                                             +
-+                     +         +                                                                              +
-+ showMode            + String  + * absence of this attribute/``default`` -                                    +
-+                     +         +   the editor is highlighted in Edit mode.                                    +
-+                     +         + * ``small`` - the editor in Edit mode looks like in the preview,             +
-+                     +         +   but after clicking it opens the normal editor.                             +
+|                     |         | Possible values:                                                             |
+|                     |         |                                                                              |
+| showMode            | String  | * absence of this attribute/``default`` -                                    |
+|                     |         |   the editor is highlighted in Edit mode.                                    |
+|                     |         | * ``small`` - the editor in Edit mode looks like in the preview,             |
+|                     |         |   but after clicking it opens the normal editor.                             |
 +---------------------+---------+------------------------------------------------------------------------------+
 
 .. warning:: Text tag must have ``no`` or ``index`` attribute!

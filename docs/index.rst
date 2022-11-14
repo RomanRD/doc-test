@@ -22,8 +22,8 @@ ImCMS Documentation
     advanced-configuration/index
     image-archive/index
     bank-id/index
-    developer-documentation/index
     user-documentation/index
+    developer-documentation/index
 
 .. include:: /common/authors.txt
 
