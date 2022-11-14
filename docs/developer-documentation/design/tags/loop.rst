@@ -16,27 +16,27 @@ Available list of tag attributes:
 """""""""""""""""""""""""""""""""
 
 +---------------------+---------+------------------------------------------------------------------------------+
-+ Attribute           + Type    +  Description                                                                 +
+| Attribute           | Type    | Description                                                                  |
 +=====================+=========+==============================================================================+
-+ index               + Integer + id of the current text (recommended version).                                +
+| index               | Integer | id of the current text (recommended version).                                |
 +---------------------+---------+------------------------------------------------------------------------------+
-+ document            + Integer + id of the document from which to take the text.                              +
-+                     +         + This text cannot be changed on this page.                                    +
+| document            | Integer | id of the document from which to take the text.                              |
+|                     |         | This text cannot be changed on this page.                                    |
 +---------------------+---------+------------------------------------------------------------------------------+
-+ label               + String  + the text editor title (visible to the admin).                                +
+| label               | String  | the text editor title (visible to the admin).                                |
 +---------------------+---------+------------------------------------------------------------------------------+
-+ showlabel           + Boolean + true (default) - show the label, false - don't show label.                   +
+| showlabel           | Boolean | true (default) - show the label, false - don't show label.                   |
 +---------------------+---------+------------------------------------------------------------------------------+
-+ pre                 + String  + text or html before the content (if the content is not empty).               +
+| pre                 | String  | text or html before the content (if the content is not empty).               |
 +---------------------+---------+------------------------------------------------------------------------------+
-+ post                + String  + text or html after the content (if the content is not empty).                +
+| post                | String  | text or html after the content (if the content is not empty).                |
 +---------------------+---------+------------------------------------------------------------------------------+
-+                     +         + Possible values:                                                             +
-+                     +         +                                                                              +
-+ showMode            + String  + * absence of this attribute/``default`` -                                    +
-+                     +         +   the editor is highlighted in Edit mode.                                    +
-+                     +         + * ``small`` - the editor in Edit mode looks like in the preview,             +
-+                     +         +   but after clicking it opens the normal editor.                             +
+|                     |         | Possible values:                                                             |
+|                     |         |                                                                              |
+| showMode            | String  | * absence of this attribute/``default`` -                                    |
+|                     |         |   the editor is highlighted in Edit mode.                                    |
+|                     |         | * ``small`` - the editor in Edit mode looks like in the preview,             |
+|                     |         |   but after clicking it opens the normal editor.                             |
 +---------------------+---------+------------------------------------------------------------------------------+
 
 .. warning:: Loop tag must have ``index`` attribute!
