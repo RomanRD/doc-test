@@ -1,7 +1,7 @@
 Image Tag
 =========
 
-The *Image* tag represents the :doc:`Image editor </user-documentation/editors/image>` in Edit mode and
+The *Image* tag represents the :doc:`Image editor </user-documentation/editors/image/image-editor>` in Edit mode and
 the content from the editor in Preview mode and on a published page.
 
 .. seealso:: Read also the :doc:`Image editor </user-documentation/editors/image>` article.
