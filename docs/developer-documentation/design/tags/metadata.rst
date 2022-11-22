@@ -1,5 +1,5 @@
-Metadata
-========
+Metadata Tag
+============
 
 Activate metadata support in template. Without this metadata functionality does not apply to the document.
 
@@ -7,7 +7,9 @@ Must be in the ``<head>``. It is important to insert this tag beyond all other o
 
 .. code-block:: jsp
 
-    ``<imcms:metadata/>``
+    <imcms:metadata/>
+
+.. seealso:: Read how to manage meta in the :doc:`Text Document Management </user-documentation/document-management/page-info/text-document>` article.
 
 ********************
 Additional meta name
@@ -32,12 +34,12 @@ Usage example
 	<!DOCTYPE html>
 	<html lang="en">
 		<head>
-    			<meta charset="UTF-8">
-    			<!-- inserts metas -->
-                <imcms:metadata/>
+    	    <meta charset="UTF-8">
+    		<!-- inserts metas -->
+            <imcms:metadata/>
 
-    			<title>Demo Page</title>
-                <link rel="stylesheet" href="${contextPath}/demo/css/demo.css">
+    		<title>Demo Page</title>
+            <link rel="stylesheet" href="${contextPath}/demo/css/demo.css">
 		</head>
 		<body>
 		</body>

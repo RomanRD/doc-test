@@ -19,7 +19,7 @@ In this article, we'll take a look at special tabs for *Text*, documents in the 
 Metadata Tab
 ------------
 
-**Metadata** – is an equivalent entity to HTML <meta name=”…” property=”…” content=”…”> tag.
+**Metadata** – is an equivalent entity to HTML ``<meta name=”…” property=”…” content=”…”>`` tag.
 
 Here you can add, delete, change metas. Each language has unique metadata so you can control it differently.
 

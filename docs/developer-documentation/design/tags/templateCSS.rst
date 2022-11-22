@@ -1,5 +1,5 @@
-TemplateCSS
-===========
+TemplateCSS Tag
+===============
 
 This tag inserts custom css styles. Without this Template CSS functionality does not apply to the document.
 
@@ -24,12 +24,12 @@ Usage example
 	<!DOCTYPE html>
 	<html lang="en">
 		<head>
-    			<meta charset="UTF-8">
-    			<title>Demo Page</title>
+    	    <meta charset="UTF-8">
+    		<title>Demo Page</title>
 
-    			<imcms:admin/>
-    			<!-- inserts custom css styles -->
-    			<imcms:templateCSS/>
+    		<imcms:admin/>
+    		<!-- inserts custom css styles -->
+    		<imcms:templateCSS/>
 		</head>
 		<body>
 		</body>
