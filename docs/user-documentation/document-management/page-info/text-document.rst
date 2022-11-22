@@ -13,7 +13,7 @@ Introduction
 ------------
 
 Text Document represents a web page.
-In this article, we'll take a look at special tabs for *Text*, documents in the *Page Info*.
+In this article, we'll take a look at special tabs for *Text* documents in the *Page Info*.
 
 ------------
 Metadata Tab

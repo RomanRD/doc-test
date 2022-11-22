@@ -31,6 +31,7 @@ Usage example
     		<!-- inserts custom css styles -->
     		<imcms:templateCSS/>
 		</head>
+
 		<body>
 		</body>
 	</html>
