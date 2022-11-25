@@ -8,4 +8,4 @@ API
     searchDocumentService
     imageCompressor
     storage/index
-    old-api/index
+    old-api/API-documentation/index
