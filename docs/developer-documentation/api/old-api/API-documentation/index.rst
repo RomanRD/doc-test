@@ -1,5 +1,5 @@
-API-Documentation
-=================
+Old API Documentation
+======================
 
 Imcms has the main interface for call API is - ImcmsService;
 Init ImcmsService - Imcms.getServices();
